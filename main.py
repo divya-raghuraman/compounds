@@ -125,16 +125,27 @@ def find_cid(smile):
 
 
 drugs = [
-    "Pridopidine",
-    "Branaplam",
-    "Riluzole",
-    "Olanzapine",
-    "Quetiapine",
-    "Clonazepam",
-    "Amantadine",
-    "Lonafarnib",
-    "Triheptanoin",
-    "Edaravone"
+    "Safinamide",
+    "Selegiline",
+    "Apomorphine", 
+    "Amantadine", 
+    "Benserazide", 
+    "Biperiden", 
+    "Bornaprine", 
+    "Bromocriptine", 
+    "Carbidopa", 
+    "Droxidopa", 
+    "Entacapone", 
+    "Istradefylline", 
+    "Melevodopa", 
+    "Opicapone", 
+    "Pergolide", 
+    "Piribedil", 
+    "Pramipexole", 
+    "Quetiapine", 
+    "Rasagiline", 
+    "Ropinirole", 
+    "Rotigotine"
 
 ]
 
